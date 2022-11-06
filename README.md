@@ -35,7 +35,7 @@ Project created by <a href="https://github.com/xtrembot/Toxic-Alexa_V3">Turbo</a
 </p>
 
 <p align="center">
-<a ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TURBOHYPER/Toxic-Alexa_V3&title=Toxic-Alexa_V3%20Views)
+<a ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.xtrembot/Toxic-Alexa_V3&title=Toxic-Alexa_V3%20Views)
 </p>
 
 ## Setup
