@@ -45,7 +45,7 @@ Project created by <a href="https://github.com/xtrembot/Toxic-Alexa_V3">Turbo</a
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Toxic-Alexa-v3/Toxic-Alexa_V3
 
 
 
