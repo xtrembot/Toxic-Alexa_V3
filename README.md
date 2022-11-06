@@ -45,7 +45,12 @@ Project created by <a href="https://github.com/xtrembot/Toxic-Alexa_V3">Turbo</a
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa_V3) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=
+
+
+
+https://github.com/xtrembot/Toxic-Alexa_V3
+/Toxic-Alexa_V3) 
 <br>
         
 1. Click [SCAN](https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
@@ -70,7 +75,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/TURBOHYPER/Toxic-Alexa_V3
+git clone https://github.com/xtrembot/Toxic-Alexa_V3
 cd Toxic-Alexa_V3
 npm start
 ```
@@ -79,7 +84,8 @@ npm start
 ### Redeploy
 ```js
 SETUP
-git clone https://github.com/TURBOHYPER/Toxic-Alexa_V3
+git clone https://github.com/XTREMBOT
+/Toxic-Alexa_V3
 cd Toxic-Alexa_V3
 npm start
 ```
